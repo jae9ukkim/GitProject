@@ -15,4 +15,10 @@
 	<p>1.브랜치 초기화 - 특정 지점으로 초기화 하는 기능</p>
 	<p>2.reverse commit - 선택한 버전의 이전으로 되돌린 내용을 새롭게 commit</p>
 </body>
+<script>
+var msg = "$(msg)";
+if(msg!=""){
+	alert(msg);
+}
+</script>
 </html>
