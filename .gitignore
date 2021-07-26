@@ -5,3 +5,4 @@
 WebContent/META-INF/
 WebContent/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar
 WebContent/WEB-INF/lib/
+build/
